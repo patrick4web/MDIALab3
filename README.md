@@ -1,5 +1,5 @@
 # Project A
 Welcome to my project
 
-#About me
+# About me
 I go to BCIT
